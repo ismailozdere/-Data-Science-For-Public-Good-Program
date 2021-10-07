@@ -41,4 +41,11 @@ Indicates if water is safe for human consumption where 1 means Potable and 0 mea
 # Sunum linki
 https://prezi.com/p/edit/bsvwisq7hsz7/
 
+# Projeyi Yapanlar 
 
+Selin SAYIN :https://www.linkedin.com/in/selin-sayın-8b0a3a196/
+
+Kaan BAYRAK : https://www.linkedin.com/in/kaanbayrak/
+
+# Mentorumuz 
+Berke Doruk ÖZDEN : https://www.linkedin.com/in/bdozden/
